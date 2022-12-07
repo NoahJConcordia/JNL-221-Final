@@ -7,7 +7,7 @@ body {
 }
 
 img logo{
-	width: 330px;
+	width: 200px;
 }
 .site-banner{
 
@@ -23,12 +23,13 @@ text-align: left;
 
 	font-family: monospace;
 	font-weight: bold;
-	font-size: 24px;
+	font-size: 28px;
 	color: midnightblue;
 	letter-spacing: 1px;
+	margin-left: 60px;
 }
 .article{
-max-width: 900px;
+max-width: 1400px;
 margin-right: 5%;
 margin-left: 5%;
 }
@@ -40,6 +41,7 @@ font-size: 20px;
  .h1{
  	font-size:  46px;
  	margin-bottom: 0px;
+ 	text-align: right;
  }
 .by-line{
 
@@ -68,7 +70,7 @@ margin-bottom: 30px;
 }
 .footer-info{
 	color:  gray;
-	font-size: 14px;
+	font-size:8px;
 
 }
 .article a{
